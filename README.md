@@ -89,6 +89,7 @@ healthcare systems.
 
 Technologies: Python • SQL • AWS Redshift • Healthcare Analytics
 
+![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 Customer Churn Prediction
@@ -98,6 +99,7 @@ Logistic Regression, Decision Trees, and Random Forest algorithms.
 
 Technologies: Python • Machine Learning • Classification
 
+![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 Marketing Campaign Analytics Dashboard
@@ -107,6 +109,7 @@ ROI, customer behaviour, and business KPIs.
 
 Technologies: Power BI • DAX • Data Visualisation
 
+![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 eWOM & Purchase Intention Research
@@ -117,6 +120,7 @@ machine learning.
 
 Technologies: Python • Statistics • Research Analytics
 
+![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 Manufacturing Operations Analytics
@@ -124,6 +128,7 @@ Manufacturing Operations Analytics
 Applied business analytics to improve inventory management, reporting,
 production efficiency, and operational decision-making.
 
+![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 HR Analytics Dashboard
@@ -131,6 +136,7 @@ HR Analytics Dashboard
 Built workforce dashboards analysing employee turnover, salaries, and
 organisational performance.
 
+![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 ## COMMUNITY & LEADERSHIP

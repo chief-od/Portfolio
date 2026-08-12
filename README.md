@@ -109,7 +109,8 @@ ROI, customer behaviour, and business KPIs.
 
 Technologies: Power BI • DAX • Data Visualisation
 
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Campaign_ROI.png)
+
 ------------------------------------------------------------------------
 
 eWOM & Purchase Intention Research

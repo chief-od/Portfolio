@@ -129,7 +129,8 @@ Manufacturing Operations Analytics
 Applied business analytics to improve inventory management, reporting,
 production efficiency, and operational decision-making.
 
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Vidorck_Data_Analyzed.png)
+
 ------------------------------------------------------------------------
 
 HR Analytics Dashboard

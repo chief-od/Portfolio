@@ -89,7 +89,6 @@ healthcare systems.
 
 Technologies: Python • SQL • AWS Redshift • Healthcare Analytics
 
-![image](1 anietie etuk data analytics car project.jpeg)
 ------------------------------------------------------------------------
 
 Customer Churn Prediction
@@ -99,7 +98,7 @@ Logistic Regression, Decision Trees, and Random Forest algorithms.
 
 Technologies: Python • Machine Learning • Classification
 
-![image](1 anietie etuk data analytics car project.jpeg)
+
 ------------------------------------------------------------------------
 
 Marketing Campaign Analytics Dashboard
@@ -121,7 +120,8 @@ machine learning.
 
 Technologies: Python • Statistics • Research Analytics
 
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](eWOM.png)
+
 ------------------------------------------------------------------------
 
 Manufacturing Operations Analytics
@@ -133,14 +133,30 @@ production efficiency, and operational decision-making.
 
 ------------------------------------------------------------------------
 
-HR Analytics Dashboard
+Sales Analytics Dashboard
 
-Built workforce dashboards analysing employee turnover, salaries, and
-organisational performance.
+Built workforce dashboards analysing customer turnover, best/worst customers, and
+sales performance.
 
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](pizza_sales.png)
+
+------------------------------------------------------------------------
+Reward Program Analytics
+
+Applied business analytics to design a rewards program for students to support personal development.
+
+![image](Reward_program.png)
+
 ------------------------------------------------------------------------
 
+Flight Analytics Dashboard
+
+Built a dashboard analysing flight status, flight performance, and
+factors surrounding flight operations.
+
+![image](flight_details.png)
+
+------------------------------------------------------------------------
 ## COMMUNITY & LEADERSHIP
 
 -   Facilitator — IndabaX Ghana(Ghana Data Science Summit)

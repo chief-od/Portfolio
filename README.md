@@ -12,7 +12,7 @@ products • Helping organisations grow through data.
 ## ABOUT ME
 
 Hello! I’m Kwadwo Oduro Twum 👋, a Business Analytics professional with
-a background in Chemical Engineering and Operations Management. I
+a background in Engineering and Data Analytics. I
 specialise in transforming raw data into meaningful insights that drive
 strategic business decisions.
 
@@ -22,11 +22,10 @@ have designed dashboards, predictive models, ETL workflows, analytical
 web applications, and operational systems that improve efficiency and
 support executive decision-making.
 
-Currently pursuing an MSc in Business Analytics while expanding my
+I have also completed an MSc in Business Analytics and am currently expanding my
 expertise in Artificial Intelligence and Data Engineering.
 
-  I believe great analytics should do more than explain the past; it
-  should influence what happens next.
+I believe great analytics should do more than explain the past; it should influence what happens next.
 
 ------------------------------------------------------------------------
 
@@ -75,7 +74,7 @@ Random Forest - Clustering - PCA
 Data Engineering - PostgreSQL - AWS Redshift - ETL - Data Cleaning -
 Data Modelling
 
-Tools - Git - GitHub - VS Code - Jupyter Notebook - Streamlit
+Tools - Git - GitHub - VS Code - PyCharm - Streamlit
 
 ------------------------------------------------------------------------
 
@@ -97,7 +96,6 @@ Developed machine learning models that predict customer churn using
 Logistic Regression, Decision Trees, and Random Forest algorithms.
 
 Technologies: Python • Machine Learning • Classification
-
 
 ------------------------------------------------------------------------
 

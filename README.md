@@ -80,7 +80,7 @@ Tools - Git - GitHub - VS Code - PyCharm - Streamlit
 
 ## FEATURED PROJECTS
 
-#### Healthcare Patient Matching System
+#### • Healthcare Patient Matching System
 
 Designed an intelligent patient matching solution using fuzzy matching
 and probability scoring to reconcile patient records across multiple
@@ -90,7 +90,7 @@ Technologies: Python • SQL • AWS Redshift • Healthcare Analytics
 
 ------------------------------------------------------------------------
 
-#### Customer Churn Prediction
+#### • Customer Churn Prediction
 
 Developed machine learning models that predict customer churn using
 Logistic Regression, Decision Trees, and Random Forest algorithms.
@@ -99,7 +99,7 @@ Technologies: Python • Machine Learning • Classification
 
 ------------------------------------------------------------------------
 
-#### Marketing Campaign Analytics Dashboard
+#### • Marketing Campaign Analytics Dashboard
 
 Built executive Power BI dashboards to monitor campaign performance,
 ROI, customer behaviour, and business KPIs.
@@ -111,7 +111,7 @@ Technologies: Power BI • DAX • Data Visualisation
 
 ------------------------------------------------------------------------
 
-#### eWOM & Purchase Intention Research
+#### • eWOM & Purchase Intention Research
 
 Conducting postgraduate research exploring the impact of Electronic
 Word-of-Mouth on purchase intentions using statistical modelling and
@@ -124,7 +124,7 @@ Technologies: Python • Statistics • Research Analytics
 
 ------------------------------------------------------------------------
 
-#### Manufacturing Operations Analytics
+#### • Manufacturing Operations Analytics
 
 Applied business analytics to improve inventory management, reporting,
 production efficiency, and operational decision-making.
@@ -134,7 +134,7 @@ production efficiency, and operational decision-making.
 
 ------------------------------------------------------------------------
 
-#### Sales Analytics Dashboard
+#### • Sales Analytics Dashboard
 
 Built workforce dashboards analysing customer turnover, best/worst customers, and
 sales performance.
@@ -143,7 +143,7 @@ sales performance.
 ![image](pizza_sales.png)
 
 ------------------------------------------------------------------------
-#### Reward Program Analytics
+#### • Reward Program Analytics
 
 Applied business analytics to design a rewards program for students to support personal development.
 
@@ -152,7 +152,7 @@ Applied business analytics to design a rewards program for students to support p
 
 ------------------------------------------------------------------------
 
-#### Flight Analytics Dashboard
+#### • Flight Analytics Dashboard
 
 Built a dashboard analysing flight status, flight performance, and
 factors surrounding flight operations.

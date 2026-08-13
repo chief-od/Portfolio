@@ -88,6 +88,8 @@ healthcare systems.
 
 Technologies: Python • SQL • AWS Redshift • Healthcare Analytics
 
+[Read More](https://drive.google.com/file/d/1KVwTR6cWfaagGpTR9GkneffnFj6D2KF1/view?usp=drive_link)
+
 ------------------------------------------------------------------------
 
 #### • Customer Churn Prediction
@@ -96,6 +98,8 @@ Developed machine learning models that predict customer churn using
 Logistic Regression, Decision Trees, and Random Forest algorithms.
 
 Technologies: Python • Machine Learning • Classification
+
+[Read More](https://drive.google.com/file/d/1Qt7GsDi6-Oiyc-4ZBo6rbDHPGOpIFqxb/view?usp=drive_link)
 
 ------------------------------------------------------------------------
 
@@ -108,6 +112,8 @@ Technologies: Power BI • DAX • Data Visualisation
 
 
 ![image](Campaign_ROI.png)
+
+[Read More](https://ugedugh-my.sharepoint.com/:u:/g/personal/kotwum003_st_ug_edu_gh/IQAj333_EKZbTo8SF-YwMEHQAeo10BRUIrExrxMEanSRF2s?e=7e8jAx)
 
 ------------------------------------------------------------------------
 
@@ -122,6 +128,8 @@ Technologies: Python • Statistics • Research Analytics
 
 ![image](eWOM.png)
 
+[Read More](https://docs.google.com/document/d/1VSxtykQ-vdYewKhRAwxBtmH2pzUJXlem/edit?usp=drive_link&ouid=114303194223546344620&rtpof=true&sd=true)
+
 ------------------------------------------------------------------------
 
 #### • Manufacturing Operations Analytics
@@ -131,6 +139,8 @@ production efficiency, and operational decision-making.
 
 
 ![image](Vidorck_Data_Analyzed.png)
+
+[Read More](https://docs.google.com/spreadsheets/d/1u8KGz6Np0TFxCRAVtZMiAztVn88Hgl3K/edit?usp=drive_link&ouid=114303194223546344620&rtpof=true&sd=true)
 
 ------------------------------------------------------------------------
 
@@ -142,6 +152,8 @@ sales performance.
 
 ![image](pizza_sales.png)
 
+[Read More](https://ugedugh-my.sharepoint.com/:u:/g/personal/kotwum003_st_ug_edu_gh/IQDngDc0j7YxS5mj7yWFl1o4ARxHKXzvuZrnct1tJokUnus?e=fAF4Bw)
+
 ------------------------------------------------------------------------
 #### • Reward Program Analytics
 
@@ -149,6 +161,8 @@ Applied business analytics to design a rewards program for students to support p
 
 
 ![image](Reward_program.png)
+
+[Read More](https://drive.google.com/file/d/1dHp7lEeM65xLcsfhHXOnQMaKa_CixA5D/view?usp=drive_link)
 
 ------------------------------------------------------------------------
 
@@ -159,6 +173,8 @@ factors surrounding flight operations.
 
 
 ![image](flight_details.png)
+
+[Read More](https://ugedugh-my.sharepoint.com/:u:/g/personal/kotwum003_st_ug_edu_gh/IQBwccseF4o7Tp1e6pgnWAsbAdcbeDgpOYmB7tlv8dEO9m8?e=NsyuG1)
 
 ------------------------------------------------------------------------
 ## COMMUNITY & LEADERSHIP
